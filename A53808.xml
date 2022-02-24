@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The judgment and decree of the University of Oxford past in their convocation July 21, 1683, against certain pernicious books and damnable doctrines destructive to the sacred persons of princes, their state and government, and of all humane society rendred into English, and published by command.</title>
+            <title>Judicium &amp; decretum Universitatis Oxoniensis latum in convocatione habita Jul. 21, an. 1683, contra quosdam perniciosos libros &amp; propositiones impias. English</title>
+            <author>University of Oxford.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53808</idno>
+            <idno type="STC">Wing O891</idno>
+            <idno type="STC">ESTC R14238</idno>
+            <idno type="EEBO-CITATION">13024305</idno>
+            <idno type="OCLC">ocm 13024305</idno>
+            <idno type="VID">96667</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 96667)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 394:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The judgment and decree of the University of Oxford past in their convocation July 21, 1683, against certain pernicious books and damnable doctrines destructive to the sacred persons of princes, their state and government, and of all humane society rendred into English, and published by command.</title>
+                  <title>Judicium &amp; decretum Universitatis Oxoniensis latum in convocatione habita Jul. 21, an. 1683, contra quosdam perniciosos libros &amp; propositiones impias. English</title>
+                  <author>University of Oxford.</author>
+               </titleStmt>
+               <extent>[3], 9 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at the Theater,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>1683.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Judicium &amp; decretum universitatis oxoniensis latum in convocatione habita Jul. 21, an. 1683, contra quosdam perniciosos libros &amp; propositiones impias.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prohibited books.</term>
+               <term>Censorship --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:96667:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 67 -->
+            <pb facs="tcp:96667:1"/>
+            <!-- PDF PAGE 67 -->
+            <p>The JUDGMENT and DECREE OF THE Univerſity of Oxford Paſt in their Convocation <hi>July</hi> 21. 1683, <hi>Againſt certain</hi> PERNICIOUS BOOKS <hi>and</hi> DAMNABLE DOCTRINES Deſtructive to the Sacred Perſons of PRINCES, their STATE and GOVERNMENT, and of all HUMANE SOCIETY.</p>
+            <p>
+               <hi>Rendred into Engliſh, and Publiſhed by Command.</hi>
+            </p>
+            <p>Printed at the <hi>Theater,</hi> 1683.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:96667:2"/>
+            <!-- PDF PAGE 68 -->
+            <pb n="1" facs="tcp:96667:2"/>
+            <!-- PDF PAGE 68 -->
+            <head>The JUDGMENT and DECREE OF The UNIVERSITY of OXFORD Paſt in their Convocation July 21. 1683.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Ltho the barbarous Aſſaſſi<g ref="char:EOLhyphen"/>nation lately enterpriz'd a<g ref="char:EOLhyphen"/>gainſt the perſon of his Sa<g ref="char:EOLhyphen"/>cred Majeſtie and his Roy<g ref="char:EOLhyphen"/>all Brother, engage all our thoughts to reflect with utmoſt deteſtation and ab<g ref="char:EOLhyphen"/>horrence of that execra<g ref="char:EOLhyphen"/>ble Villany, hateful to God and Man; and pay our due acknowledgments to the Divine Pro<g ref="char:EOLhyphen"/>vidence which by extraordinary methods brought it to paſs, that the breath of our no<g ref="char:EOLhyphen"/>ſtrils the Anointed of the Lord is not taken in the pit which was prepared for him: and that under his ſhadow we continue to live, and en<g ref="char:EOLhyphen"/>joy the Bleſſings of his Government: Yet notwithſtanding we find it to be a neceſſary duty at this time to ſearch into and lay open thoſe impious Doctrines, which having of late
+<pb n="2" facs="tcp:96667:3"/>
+               <!-- PDF PAGE 69 -->been ſtudiouſly diſſeminated, gave riſe and growth to thoſe nefarious attemts: and paſs upon them our ſolemn public Cenſure and De<g ref="char:EOLhyphen"/>cree of condemnation.</p>
+            <p>Therefore to the honor of the holy and un<g ref="char:EOLhyphen"/>divided Trinity, the preſervation of Catholic truth in the Church: and that the King's Ma<g ref="char:EOLhyphen"/>jeſtie may be ſecur'd from the attemts of open and bloudy enimies, and the machinations of Traiterous Heretics and Schiſmatics: We the Vice-Chancellor, Doctors, Proctors, and Ma<g ref="char:EOLhyphen"/>ſters Regent and not Regent met in Convoca<g ref="char:EOLhyphen"/>tion in the accuſtom'd manner, time and place, on Saturday the 21 of July in the Year 1683. concerning certain Propoſitions contained in diverſe Books and Writings publiſhed in Eng<g ref="char:EOLhyphen"/>liſh, and alſo in the Latin tongue repugnant to the holy Scriptures, Decrees of Councils, Wri<g ref="char:EOLhyphen"/>tings of the Fathers, the Faith and Profeſſion of the Primitive Church: and alſo deſtructive of the Kingly Government, the ſafety of his Maje<g ref="char:EOLhyphen"/>jeſtie's Perſon, the Public Peace, the Laws of Nature, and bonds of humane Society: By our Unanimous aſſent and conſent, have Decreed and Determin'd in manner and form following.</p>
+            <list>
+               <item n="1">
+                  <hi>Propoſition</hi> 1. All Civil Autority is derived originally from the People.</item>
+               <item n="2">2. There is a mutual compact, tacit or expreſs, be<g ref="char:EOLhyphen"/>tween a Prince and his Subjects; and that if he perform not his duty, they are diſcharg'd from theirs.</item>
+               <pb n="3" facs="tcp:96667:3"/>
+               <!-- PDF PAGE 69 -->
+               <item n="3">
+                  <p>3. That if lawful Governors become Tyrants, or go<g ref="char:EOLhyphen"/>vern otherwiſe then by the laws of God and man they ought to do, they forfeit the right they had unto their Government.</p>
+                  <p rend="italic">Lex Rex. Buchanan de Jure Regni. Vindiciae con<g ref="char:EOLhyphen"/>tra tyrannos. Bellarmine de Conciliis, de Pontifice. Milton. Goodwin. Baxter H. C.</p>
+               </item>
+               <item n="4">
+                  <p>4. The Soveraignty of <hi>England</hi> is in the three Eſtates, <hi>viz.</hi> King, Lords, and Commons. The King has but a coordinate power and may be overruled by the other two.</p>
+                  <p rend="italic">Lex Rex. Hunton of a limited and mix'd Monarchy. Baxter H. C. Polit. Catech.</p>
+               </item>
+               <item n="5">
+                  <p>5. Birthright and proximity of bloud give no title to rule or Government, and it is lawful to preclude the next heir from his Right of Succeſſion to the Crown.</p>
+                  <p rend="italic">Lex Rex. Hunt's Poſtcript. Doleman. Hiſtory of Suc<g ref="char:EOLhyphen"/>ceſſion. Julian the Apoſtate. Mene Tekel.</p>
+               </item>
+               <item n="6">
+                  <p>6. It is for Subjects without the conſent and againſt the command of the Supreme Magiſtrate to enter into leagues, covenants and aſſociations, for defence of themſelves and their religion.</p>
+                  <p rend="italic">Solemn League and Covenant Late Aſſociation.</p>
+               </item>
+               <item n="7">
+                  <p>7. Self-preſervation is the fundamental law of nature, and ſuperſedes the obligation of all others, when<g ref="char:EOLhyphen"/>ever they ſtand in competition with it.</p>
+                  <p rend="italic">Hobbes de Cive. Leviathan.</p>
+               </item>
+               <item n="8">
+                  <p>8. The doctrine of the Goſpel concerning patient ſuf<g ref="char:EOLhyphen"/>fering of injuries, is not inconſiſtent with violent reſiſting of the higher powers in caſe of perſecution for religion.</p>
+                  <p rend="italic">Lex Rex. Julian Apoſtat. Apolog. Relat.</p>
+               </item>
+               <pb n="4" facs="tcp:96667:4"/>
+               <!-- PDF PAGE 70 -->
+               <item n="9">
+                  <p>9. There lies no obligation upon Chriſtians to paſſive obedience, when the Prince commands any thing againſt the laws of our Country; and the primitive Chriſtians choſe rather to die then reſiſt, becauſe Chriſtianity was not yet ſetled by the laws of the Empire.</p>
+                  <p rend="italic">Julian Apoſtate.</p>
+               </item>
+               <item n="10">
+                  <p>10. Poſſeſſion and ſtrength give a right to govern, and ſucceſs in a cauſe or enterpriſe proclaims it to be lawful and juſt; to purſue it is to comply with the will of God, becauſe it is to follow the conduct of his providence.</p>
+                  <p rend="italic">Hobbes. Owen's Sermon before the Regicides Jan. <hi>31. 1648.</hi> Baxter, Jenkin's Petition Octob. <hi>1651.</hi>
+                  </p>
+               </item>
+               <item n="11">
+                  <p>11. In the ſtate of nature there is no difference between good and evil, right and wrong; the ſtate of nature is a ſtate of war, in which every man hath a right to all things.</p>
+               </item>
+               <item n="12">
+                  <p>12. The foundation of Civil Autority is this natural right, which is not given, but left to the Supreme Magi<g ref="char:EOLhyphen"/>ſtrate upon mens entring into ſocieties, and not only a foreign Invader but a domeſtic Rebel puts himſelf again into a ſtate of nature, to be proceeded againſt not as a ſubject but an enemy: and conſe<g ref="char:EOLhyphen"/>quently acquires by his rebellion the ſame right over the life of his Prince, as the Prince for the moſt hei<g ref="char:EOLhyphen"/>nous crimes has over the life of his own Subjects.</p>
+               </item>
+               <item n="13">
+                  <p>13. Every man after his entring into a ſociety retains a right of defending himſelf againſt force, and can<g ref="char:EOLhyphen"/>not transfer that right to the Commonwealth, when he conſents to that union whereby a Commonwealth is made; and in caſe a great many men together have already reſiſted the Commonwealth, for which every one of them expecteth death, they have liberty
+<pb n="5" facs="tcp:96667:4"/>
+                     <!-- PDF PAGE 70 -->then to joyn together to aſſiſt and defend one an<g ref="char:EOLhyphen"/>other. Their bearing of arms ſubſequent to the firſt breach of their duty, tho it be to maintain what they have don, is no new unjuſt act, and if it be only to defend their perſons, is not unjuſt at all.</p>
+               </item>
+               <item n="14">
+                  <p>14. An Oath ſuperadds no obligation to pact, and a pact obliges no further than it is credited: and conſe<g ref="char:EOLhyphen"/>quently if a Prince gives any indication that he does not believe the promiſes of fealty and allegiance made by any of his ſubjects, they are thereby freed from their ſubjection, and notwithſtanding their pacts and oaths may lawfully rebel againſt, and de<g ref="char:EOLhyphen"/>ſtroy their Soveraign.</p>
+                  <p rend="italic">Hobbes de Cive. Leviathan.</p>
+               </item>
+               <item n="15">
+                  <p>15. If a People that by oath and duty are oblig'd to a So<g ref="char:EOLhyphen"/>veraign ſhall ſinfully diſpoſſeſs him, and contrary to their Covenants chuſe, and covenant with another; they may be obliged by their latter Covenant not<g ref="char:EOLhyphen"/>withſtanding their former.</p>
+                  <p rend="italic">Baxter H. C.</p>
+               </item>
+               <item n="16">
+                  <p>16. All oaths are unlawful, and contrary to the word of God.</p>
+                  <p rend="italic">Quakers.</p>
+               </item>
+               <item n="17">
+                  <p>17. An Oath obliges not in the ſenſe of the Impoſer, but the takers.</p>
+                  <p rend="italic">Sheriffs caſe.</p>
+               </item>
+               <item n="18">
+                  <p>18. Dominion is founded in grace.</p>
+               </item>
+               <item n="19">
+                  <p>19. The powers of this world are uſurpations upon the Prerogative of Jeſus Chriſt, and it is the duty of God's People to deſtroy them in order to the ſetting Chriſt upon his throne.</p>
+                  <p rend="italic">Fifth-Monarchy men.</p>
+               </item>
+               <pb n="6" facs="tcp:96667:5"/>
+               <!-- PDF PAGE 71 -->
+               <item n="20">
+                  <p>20. The Presbyterian Government is the Scepter of Chriſt's Kingdom, to which Kings as well as others are bound to ſubmit; and the King's Supremacy in Eccleſiaſtical affairs aſſerted by the Church of England is injurious to Chriſt, the ſole King and Head of his Church.</p>
+                  <p rend="italic">Altare Damaſcenum. Apolog. relat. Hiſt. Indulgen. Cartwright. Travers.</p>
+               </item>
+               <item n="21">
+                  <p>21. It is not lawful for Superiors to impoſe any thing in the worſhip of God that is not antecedently neceſ<g ref="char:EOLhyphen"/>ſary.</p>
+               </item>
+               <item n="22">
+                  <p>22. The duty of not offending a weak brother is inconſi<g ref="char:EOLhyphen"/>ſtent with all human Autority of making Laws con<g ref="char:EOLhyphen"/>cerning indifferent things.</p>
+                  <p rend="italic">Proteſtant Reconciler.</p>
+               </item>
+               <item n="23">
+                  <p>23. Wicked Kings and Tyrants ought to be put to death, and if the Judges and inferior Magiſtrates will not do their office, the power of the ſword devolves to the People; if the major part of the People refuſe to exerciſe this power, then the Miniſters may ex<g ref="char:EOLhyphen"/>communicate ſuch a King, after which it is lawful for any of the Subjects to kill him, as the People did <hi>Athaliah,</hi> and <hi>Jehu Jezabel.</hi>
+                     <note>Buchanan, Knox, Goodman, Gilby, Jeſuits.</note>
+                  </p>
+               </item>
+               <item n="24">
+                  <p>24. After the ſealing of the Scripture Canon, the peo<g ref="char:EOLhyphen"/>ple of God in all ages are to expect new Revela<g ref="char:EOLhyphen"/>tions for a rule of their actions,<note n="a" place="bottom">Quakers and other Enthuſiaſts.</note> and it is lawful for a private man, having an inward motion from God, to kill a Tyrant<note n="b" place="bottom">Goodman.</note>
+                  </p>
+               </item>
+               <item n="25">
+                  <p>25. The example of <hi>Phineas</hi> is to us inſtead of a Com<g ref="char:EOLhyphen"/>mand; for what God has commanded or approved in one age, muſt needs oblige in all.</p>
+                  <p rend="italic">Goodman. Knox. Napthali.</p>
+               </item>
+               <pb n="7" facs="tcp:96667:5"/>
+               <!-- PDF PAGE 71 -->
+               <item n="26">
+                  <p>26. King Charles the firſt was lawfully put to death, and his murtherers were the bleſſed inſtruments of Gods glory in their Generation.</p>
+                  <p rend="italic">Milton. Goodwin. Owen.</p>
+               </item>
+               <item n="27">
+                  <p>27. King Charles the firſt made war upon his Parliament; and in ſuch a caſe the King may not only be reſiſted, but he ceaſeth to be King.</p>
+                  <p rend="italic">Baxter.</p>
+               </item>
+            </list>
+            <p>We decree, judge and declare all and every of theſe Propoſitions to be falſe, ſeditious and impious; and moſt of them to be alſo Heretical and Blaſphemous, infamous to Chriſtian Reli<g ref="char:EOLhyphen"/>gion, and deſtructive of all Government in Church and State.</p>
+            <p>We farther decree that the Books which con<g ref="char:EOLhyphen"/>tain the foreſaid propoſitions and impious Do<g ref="char:EOLhyphen"/>ctrines, are fitted to deprave good manners; cor<g ref="char:EOLhyphen"/>rupt the minds of unwary men, ſtir up ſedi<g ref="char:EOLhyphen"/>tions and tumults, overthrow States and King<g ref="char:EOLhyphen"/>doms, and lead to Rebellion, murther of Princes, and Atheiſm it ſelf: and therefore we interdict all members of the Univerſity from the read<g ref="char:EOLhyphen"/>ing the ſaid Books, under the penalties in the Statutes expreſt.</p>
+            <p>We alſo order the before recited Books to be publicly burnt, by the hand of our Marſhal in the court of our Scholes.</p>
+            <pb n="8" facs="tcp:96667:6"/>
+            <!-- PDF PAGE 72 -->
+            <p>Likewiſe we order that in perpetual memory hereof, theſe our decrees ſhall be enterd into the Regiſtry of our Convocation, and that co<g ref="char:EOLhyphen"/>pies of them being communicated to the ſeve<g ref="char:EOLhyphen"/>ral Colleges and Halls within this Univerſity, they be there publicly affixt in the Libraries, Refectories, or other fit places, where they may be ſeen and read of all.</p>
+            <p>Laſtly we command and ſtrictly enjoyn all and ſingular Readers, Tutors, Catechiſts and others to whom the care and truſt of inſtitu<g ref="char:EOLhyphen"/>tion of youth is committed, that they diligent<g ref="char:EOLhyphen"/>ly inſtruct and ground their Scholars in that moſt neceſſary Doctrine which in a manner is the Badge and character of the Church of England, of ſubmitting to every Ordinance of man for the Lords ſake, whether it be to the King as ſupreme, or unto Governors as unto them that are ſent by him, for the puniſhment of evil doers, and for the praiſe of them that do well: Teaching that this ſubmiſſion and obedience is to be clear, abſolute and without exception of any State or order of men: Alſo that all ſupplications, Prayers, Interceſſions and giving of thanks be made for all men, for the King and all that are in Autority, that we may lead a quiet and peaceable life in all god<g ref="char:EOLhyphen"/>lineſs and honeſty; for this is good and accep<g ref="char:EOLhyphen"/>table in the ſight of God our Savior. And in eſpecial manner that they preſs and oblige
+<pb n="9" facs="tcp:96667:6"/>
+               <!-- PDF PAGE 72 -->them humbly to offer their moſt ardent and daily Prayers at the Throne of Grace for the preſervation of our Soveraign Lord King Charles from the attemts of open violence, and ſecret Machinations of perfidious Traitors: that he the Defender of the faith, being ſafe under the defence of the moſt High, may con<g ref="char:EOLhyphen"/>tinue his reign on Earth, till he exchange it for that of a late and happy Immortality.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
